@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Ikromov Nodir
+        Ikromov Nodir Jizzax
       </header>
     </div>
   );
